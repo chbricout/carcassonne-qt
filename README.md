@@ -9,3 +9,7 @@ You can compile the project in Qt Creator and the `interfacev.pro` file
 ## Architecture UML
 
 ![UML](architecture.svg)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
