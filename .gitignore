@@ -1,0 +1,13 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/carcassonne/.vs/carcassonne/v16
+/.vs/carcassonne-lo21/v17
+/carcassonne/.vs/carcassonne/v17
+build-interfacev1-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/
+carcassonne/carcTest/
+carcassonne/carcassonne/x64/
+carcassonne/x64/Debug/carcassonne.exe
+carcassonne/x64/Debug/carcassonne.pdb
+carcassonne/

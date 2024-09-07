@@ -1,0 +1,11 @@
+<MEEPLES NOMBRE="6">
+    <GRANDMEEPLE NOMBRE="1" COULEUR="BLEU" VALEUR="2" IMG="img/grandMeepleBleu.png"/>
+    <GRANDMEEPLE NOMBRE="1" COULEUR="JAUNE" VALEUR="2" IMG="img/grandMeepleJaune.png"/>
+    <GRANDMEEPLE NOMBRE="1" COULEUR="ROUGE" VALEUR="2" IMG="img/grandMeepleRouge.png"/>
+    <GRANDMEEPLE NOMBRE="1" COULEUR="VERT" VALEUR="2" IMG="img/grandMeepleVert.png"/>
+    <GRANDMEEPLE NOMBRE="1" COULEUR="NOIR" VALEUR="2" IMG="img/grandMeepleNoir.png"/>
+    <GRANDMEEPLE NOMBRE="1" COULEUR="ROSE" VALEUR="2" IMG="img/grandMeepleRose.png"/>
+    <MEEPLE NOMBRE="8" COULEUR="ROSE" VALEUR="1" IMG="img/MeepleRose.png"/>
+    <ABBE NOMBRE="1" COULEUR="ROSE" VALEUR="1" IMG="img/abeeRose.png"/>
+
+</MEEPLES>

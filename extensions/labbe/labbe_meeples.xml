@@ -1,0 +1,7 @@
+<MEEPLES NOMBRE="5">
+    <ABBE NOMBRE="1" COULEUR="BLEU" VALEUR="1" IMG="img/abeeBleu.png"/>
+    <ABBE NOMBRE="1" COULEUR="JAUNE" VALEUR="1" IMG="img/abeeJaune.png"/>
+    <ABBE NOMBRE="1" COULEUR="ROUGE" VALEUR="1" IMG="img/abeeRouge.png"/>
+    <ABBE NOMBRE="1" COULEUR="VERT" VALEUR="1" IMG="img/abeeVert.png"/>
+    <ABBE NOMBRE="1" COULEUR="NOIR" VALEUR="1" IMG="img/abeeNoir.png"/>
+</MEEPLES>

@@ -1,0 +1,7 @@
+<MEEPLES NOMBRE="40">
+    <MEEPLE NOMBRE="8" COULEUR="BLEU" VALEUR="1" IMG="img/meepleBleu.png"/>
+    <MEEPLE NOMBRE="8" COULEUR="JAUNE" VALEUR="1" IMG="img/meepleJaune.png"/>
+    <MEEPLE NOMBRE="8" COULEUR="ROUGE" VALEUR="1" IMG="img/meepleRouge.png"/>
+    <MEEPLE NOMBRE="8" COULEUR="VERT" VALEUR="1" IMG="img/meepleVert.png"/>
+    <MEEPLE NOMBRE="8" COULEUR="NOIR" VALEUR="1" IMG="img/meepleNoir.png"/>
+</MEEPLES>

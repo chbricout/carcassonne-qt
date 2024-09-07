@@ -1,0 +1,339 @@
+<TUILES NOMBRE="71">
+   <TUILE NOMBRE="3" IMG="img/V7RDROITE.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <ROUTE ORIENTATION="EST"/>
+        <ROUTE ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V1B.png">
+        <VILLE ORIENTATION="NORD"/>
+        <VILLE ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <BLASON/>
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="OUEST"/>
+            <CONNECT FROM="NORD" TO="EST"/>
+            <CONNECT FROM="NORD" TO="SUD"/>
+            <CONNECT FROM="SUD" TO="OUEST"/>
+            <CONNECT FROM="SUD" TO="EST"/>
+            <CONNECT FROM="OUEST" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="2" IMG="img/V2.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="OUEST"/>
+            <CONNECT FROM="NORD" TO="EST"/>
+            <CONNECT FROM="OUEST" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V2F.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <FLEURS/>
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="OUEST"/>
+            <CONNECT FROM="NORD" TO="EST"/>
+            <CONNECT FROM="OUEST" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V2B.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <BLASON/>
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="OUEST"/>
+            <CONNECT FROM="NORD" TO="EST"/>
+            <CONNECT FROM="OUEST" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V2R.png">
+        <VILLE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="OUEST"/>
+            <CONNECT FROM="NORD" TO="EST"/>
+            <CONNECT FROM="OUEST" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="2" IMG="img/V2BR.png">
+        <VILLE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <BLASON/>
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="OUEST"/>
+            <CONNECT FROM="NORD" TO="EST"/>
+            <CONNECT FROM="OUEST" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V3.png">
+        <CHAMP ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="2" IMG="img/V3B.png">
+        <CHAMP ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <BLASON/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="2" IMG="img/V4.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="NORD"/>
+            <CONNECT FROM="EST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V4F.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <FLEURS/>
+
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="NORD"/>
+            <CONNECT FROM="EST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V4B.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <BLASON/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="NORD"/>
+            <CONNECT FROM="EST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V4BF.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <FLEURS/>
+        <BLASON/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="NORD"/>
+            <CONNECT FROM="EST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="3" IMG="img/V4R.png">
+        <VILLE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <ROUTE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="NORD"/>
+            <CONNECT FROM="EST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="2" IMG="img/V4BR.png">
+        <VILLE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <ROUTE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <BLASON/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="NORD"/>
+            <CONNECT FROM="EST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V5.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <CHAMP ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+   <TUILE NOMBRE="1" IMG="img/V5F.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <CHAMP ORIENTATION="OUEST"/>
+        <FLEURS/>
+
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="2" IMG="img/V6.png">
+        <CHAMP ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/V6F.png">
+        <CHAMP ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <VILLE ORIENTATION="EST"/>
+        <VILLE ORIENTATION="OUEST"/>
+        <FLEURS/>
+
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="4" IMG="img/V7.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <CHAMP ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="SUD"/>
+            <CONNECT FROM="OUEST" TO="EST"/>
+            <CONNECT FROM="EST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+   <TUILE NOMBRE="1" IMG="img/V7F.png">
+        <VILLE ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <CHAMP ORIENTATION="OUEST"/>
+        <FLEURS/>
+
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="SUD"/>
+            <CONNECT FROM="OUEST" TO="EST"/>
+            <CONNECT FROM="EST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="3" IMG="img/V7RANGLED.png">
+        <VILLE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <ROUTE ORIENTATION="EST"/>
+        <CHAMP ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="EST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="3" IMG="img/V7RANGLEG.png">
+        <VILLE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <ROUTE ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="3" IMG="img/V7R3.png">
+        <VILLE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <ROUTE ORIENTATION="EST"/>
+        <ROUTE ORIENTATION="OUEST"/>
+    </TUILE>
+ 
+    <TUILE NOMBRE="4" IMG="img/A1.png">
+        <CHAMP ORIENTATION="NORD"/>
+        <CHAMP ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <CHAMP ORIENTATION="OUEST"/>
+        <ABBAYE/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="SUD"/>
+            <CONNECT FROM="OUEST" TO="EST"/>
+            <CONNECT FROM="OUEST" TO="NORD"/>
+            <CONNECT FROM="NORD" TO="EST"/>
+            <CONNECT FROM="NORD" TO="SUD"/>
+            <CONNECT FROM="SUD" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="2" IMG="img/A2R.png">
+        <CHAMP ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <CHAMP ORIENTATION="OUEST"/>
+        <ABBAYE/>
+        <CONNEXIONS>
+            <CONNECT FROM="OUEST" TO="EST"/>
+            <CONNECT FROM="OUEST" TO="NORD"/>
+            <CONNECT FROM="NORD" TO="EST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/CR4.png">
+        <ROUTE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <ROUTE ORIENTATION="EST"/>
+        <ROUTE ORIENTATION="OUEST"/>
+    </TUILE>
+    <TUILE NOMBRE="4" IMG="img/CR3.png">
+        <CHAMP ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <ROUTE ORIENTATION="EST"/>
+        <ROUTE ORIENTATION="OUEST"/>
+    </TUILE>
+    <TUILE NOMBRE="7" IMG="img/RDROITE.png">
+        <ROUTE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <CHAMP ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/RDROITEF.png">
+        <ROUTE ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <CHAMP ORIENTATION="OUEST"/>
+        <FLEURS/>
+
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="SUD"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="8" IMG="img/RANGLE.png">
+        <CHAMP ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <ROUTE ORIENTATION="OUEST"/>
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="EST"/>
+            <CONNECT FROM="SUD" TO="OUEST"/>
+        </CONNEXIONS>
+    </TUILE>
+    <TUILE NOMBRE="1" IMG="img/RANGLEF.png">
+        <CHAMP ORIENTATION="NORD"/>
+        <ROUTE ORIENTATION="SUD"/>
+        <CHAMP ORIENTATION="EST"/>
+        <ROUTE ORIENTATION="OUEST"/>
+        <FLEURS/>
+
+        <CONNEXIONS>
+            <CONNECT FROM="NORD" TO="EST"/>
+            <CONNECT FROM="SUD" TO="OUEST"/>
+        </CONNEXIONS>
+    </TUILE>
+</TUILES>
